@@ -1,0 +1,157 @@
+{
+  "radios": [
+    {
+      "id": 1,
+      "name": "Kataomoi",
+      "singer": "Aimer",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b56ada0ba61d7787fb213f72",
+      "url":  "https://drive.google.com/uc?export=view&id=1VTbsIT1QTWdFS65WX0sdG5He13I01Nl7",
+      "color": "0xffff0000",
+      "category": "Love"
+    },
+    {
+      "id": 2,
+      "name": "我愛他",
+      "singer": "丁噹",
+      "image": "https://image1.thenewslens.com/2016/03/擷取.jpg?auto=compress&h=648&q=80&w=1080",
+      "url":  "https://drive.google.com/uc?export=view&id=1HS5_Hla88tMiHTVFqvy0Vt3ql8zApZ_W",
+      "color": "0xffff0000",
+      "category": "Love"
+    },
+    {
+      "id": 3,
+      "name": "雨愛",
+      "singer": "楊丞琳",
+      "image": "https://c-fa.cdn.smule.com/rs-s84/arr/f1/d5/18524294-b089-453e-8980-79419b67599b_1024.jpg",
+      "url":  "https://drive.google.com/uc?export=view&id=1IB1ty5HYh1sq9zZQ3kpy1vRaEYS8j9Ys",
+      "color": "0xffff0000",
+      "category": "Love"
+    },
+    {
+      "id": 4,
+      "name": "我們的愛",
+      "singer": "FIR 飛兒樂團",
+      "image": "https://i.kfs.io/album/tw/51136,0v3/fit/500x500.jpg",
+      "url":  "https://drive.google.com/uc?export=view&id=1HRVbJHl6Q4YbBYQxYRdpghs5k1iNzAUY",
+      "color": "0xffff0000",
+      "category": "Love"
+    },
+    {
+      "id": 5,
+      "name": "Love Story",
+      "singer": "Taylor Swift",
+      "image": "https://upload.wikimedia.org/wikipedia/zh/0/01/Taylor_Swift_-_Love_Story.png",
+      "url":  "https://drive.google.com/uc?export=view&id=1I9YDMukOd5_Etf1bjR1kUO5D0USzH-WE",
+      "color": "0xffff0000",
+      "category": "Love"
+    },
+    {
+      "id": 6,
+      "name": "終究還是因為愛",
+      "singer": "TRASH",
+      "image": "https://i.ytimg.com/vi/fl1Wbd-ldMQ/maxresdefault.jpg",
+      "url":  "https://drive.google.com/uc?export=view&id=1IXIz3T5p226CBc-nGD2YJV1rN5HA8gbG",
+      "color": "0xffff0000",
+      "category": "Love"
+    },
+    {
+      "id": 7,
+      "name": "謝謝你力量人",
+      "singer": "小魚",
+      "image": "https://i1.sndcdn.com/artworks-gpTquiCUQ8yrx4ww-jy7bCg-t500x500.jpg",
+      "url": "https://drive.google.com/uc?export=view&id=1Uemjvy_U5zDUOsS85YNm-Bmhm786Hj1W",
+      "color": "0xff0000ff",
+      "category": "Pop"
+    },
+    {
+      "id": 8,
+      "name": "對等關係",
+      "singer": "李榮浩",
+      "image": "https://i.ytimg.com/vi/mQUek1GYfvs/maxresdefault.jpg",
+      "url":  "https://drive.google.com/uc?export=view&id=1If9QaTrLRudw-WKcpZQ08QMYDti_3aZq",
+      "color": "0xff0000ff",
+      "category": "Pop"
+    },
+    {
+      "id": 9,
+      "name": "愛情你比我想的閣較偉大",
+      "singer": "茄子蛋",
+      "image": "https://i.ytimg.com/vi/0rp3pP2Xwhs/maxresdefault.jpg",
+      "url":  "https://drive.google.com/uc?export=view&id=1IZB6HTufvo9chtShB_DZ2-iFF54IHkc9",
+      "color": "0xff0000ff",
+      "category": "Pop"
+    },
+    {
+      "id": 10,
+      "name": "現在的我好嗎",
+      "singer": "原子邦妮",
+      "image": "https://i.ytimg.com/vi/_guD8R_-LaU/maxresdefault.jpg",
+      "url":  "https://drive.google.com/uc?export=view&id=1Ig8zyTcFnVRuIUbbHevO-5ovexqoHAcR",
+      "color": "0xff0000ff",
+      "category": "Pop"
+    },
+    {
+      "id": 11,
+      "name": "第一千零一顆流星",
+      "singer": "蔡佩軒",
+      "image": "https://i.kfs.io/album/global/205963403,2v1/fit/500x500.jpg",
+      "url":  "https://drive.google.com/uc?export=view&id=1IrcIB4jGuw2lLDvBwt20pDkc4JfZsQ4n",
+      "color": "0xff0000ff",
+      "category": "Pop"
+    },
+    {
+      "id": 12,
+      "name": "訣愛",
+      "singer": "詹雯婷",
+      "image": "https://i.ytimg.com/vi/I4lonGT1PYM/maxresdefault.jpg",
+      "url":  "https://drive.google.com/uc?export=view&id=1ItxpXoupU8_67Ndy5MOyIG-lcPVZngEz",
+      "color": "0xff0000ff",
+      "category": "Pop"
+    },
+    {
+      "id": 13,
+      "name": "曲終人散",
+      "singer": "張宇",
+      "image": "https://i.ytimg.com/vi/OfpWrDHPAcA/hqdefault.jpg",
+      "url":  "https://drive.google.com/uc?export=view&id=1HdpkwVwTPp79QP1AItbDHBvmbt_moifK",
+      "color": "0xff00ff00",
+      "category": "Classic"
+    },
+    {
+      "id": 14,
+      "name": "沒離開過",
+      "singer": "林志炫",
+      "image": "https://i.ytimg.com/vi/TTfeMfHxZzc/maxresdefault.jpg",
+      "url":  "https://drive.google.com/uc?export=view&id=1HVRETAXT5PND7h_nhzz6GEN-CAzPR79W",
+      "color": "0xff00ff00",
+      "category": "Classic"
+    },
+    {
+      "id": 15,
+      "name": "香水有毒",
+      "singer": "胡楊林",
+      "image": "https://i.ytimg.com/vi/0EEIh5MucS8/maxresdefault.jpg",
+      "url":  "https://drive.google.com/uc?export=view&id=1Ht0Ks8eF9jZ8ZiV2wzGoCNHPSeUA7WXf",
+      "color": "0xff00ff00",
+      "category": "Classic"
+    },
+    {
+      "id": 16,
+      "name": "過火",
+      "singer": "張信哲",
+      "image": "https://i.kfs.io/album/tw/27467,0v1/fit/500x500.jpg",
+      "url":  "https://drive.google.com/uc?export=view&id=1Hts-1yjNRdW77YGQI7p5lvxRlFWL4dE-",
+      "color": "0xff00ff00",
+      "category": "Classic"
+    },
+    {
+      "id": 17,
+      "name": "梁山伯與茱麗葉",
+      "singer": "曹格",
+      "image": "https://i.ytimg.com/vi/0NuKS4gK0Lw/hqdefault.jpg",
+      "url":  "https://drive.google.com/uc?export=view&id=1HeQvHJOk__2-zVl8kmtJp74GcYn9kvmp",
+      "color": "0xff00ff00",
+      "category": "Classic"
+    }
+  ]
+}
