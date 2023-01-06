@@ -1,6 +1,10 @@
 # ai_radio
 
-NCKU AI Final Project
+NCKU AI圖像識別及機器人實驗室導論 Final Project
+
+You can download the app by the url below(only for Android):
+
+https://drive.google.com/file/d/1LbGu0I4SvxshO46K9hAYDemcKu-SNYpV/view?usp=share_link
 
 ## Getting Started
 
